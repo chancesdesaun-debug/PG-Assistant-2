@@ -1,6 +1,7 @@
 {
-    "webhook_url": "",
+    "webhook_url": "https://discord.com/api/webhooks/1410187162820935681/PzdOif2J1NcKPFnwR0T1-7JFAlFoGodbgRFmB5EpiDpxfkSaqeYnOso1T3H5UTbmlywv",
     "min_userid_to_snipe": 10000000,
     "max_userid_to_snipe": 100000000,
     "offline_years": 6
+
 }
